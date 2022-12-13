@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miarinkaja</h1>
 <h3 align="center">A le Wagon alumni and a junior FullStack developer from Marseille (France)</h3>
 
-- 🔭 I’m currently working on **Chilldin'Time" : a "fabulous child guard sharing app that all parents will use..**
+- 🔭 I’m currently working on **"Chilldin'Time" : a "fabulous child guard sharing app that all parents will use..**
 
 - 🌱 I’m currently learning **React and PHP to complete all the courses learned @ le Wagon**
 
